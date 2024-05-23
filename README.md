@@ -1,4 +1,4 @@
-﻿# ModernAnalogClock_HtmlCssJs
+Analog clock
 
 
 
